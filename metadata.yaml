@@ -1,0 +1,48 @@
+_repo: The-Epistles-on-the-Romance-of-the-Rose-and-other-documents-in-the-debate_64706
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Col, Pierre
+    gutenberg_agent_id: '53020'
+    url: http://www.gutenberg.org/2009/agents/53020
+  - agent_name: Christine, de Pisan
+    aliases:
+    - Pisan, Christine de
+    - Pisan, Christiné de
+    - Pizan, Christine de
+    birthdate: 1363
+    deathdate: 1430
+    gutenberg_agent_id: '4613'
+    url: http://www.gutenberg.org/2009/agents/4613
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Christine_de_Pizan
+    - https://en.wikipedia.org/wiki/Christine_de_Pizan
+  - agent_name: Guillaume, de Lorris, active 1230
+    aliases:
+    - De Lorris, Guillaume
+    - Lorris, Guillaume de
+    gutenberg_agent_id: '6951'
+    url: http://www.gutenberg.org/2009/agents/6951
+  - agent_name: Gerson, Jean
+    gutenberg_agent_id: '53019'
+    url: http://www.gutenberg.org/2009/agents/53019
+creator:
+  author:
+    agent_name: Ward, Charles Frederick
+    gutenberg_agent_id: '53018'
+    url: http://www.gutenberg.org/2009/agents/53018
+description: ''
+gutenberg_issued: '2021-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64706'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Epistles on the Romance of the Rose
+
+  and other documents in the debate'
+url: http://www.gutenberg.org/ebooks/64706
