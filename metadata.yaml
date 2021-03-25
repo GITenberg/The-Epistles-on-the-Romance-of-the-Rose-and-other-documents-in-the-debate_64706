@@ -26,12 +26,17 @@ contributor:
   - agent_name: Gerson, Jean
     gutenberg_agent_id: '53019'
     url: http://www.gutenberg.org/2009/agents/53019
+covers:
+- cover_type: archival
+  image_path: 64706-h/images/cover.jpg
 creator:
   author:
     agent_name: Ward, Charles Frederick
     gutenberg_agent_id: '53018'
     url: http://www.gutenberg.org/2009/agents/53018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64706#The-Epistles-on-the-Romance-of-the-Rose-and-other-documents-in-the-debate
 gutenberg_issued: '2021-03-05'
 gutenberg_type: Text
 identifiers:
